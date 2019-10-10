@@ -1,6 +1,6 @@
 This is the typescript version of [codenjoy project](https://github.com/codenjoyme/codenjoy/tree/master/CodingDojo/games/battlecity/src/main/javascript) with some code organizing.
 
-# Registration:
+# Registration
 
 * Game instructions and useful links: http://codenjoy.com/codenjoy-contest/resources/help/battlecity.html.
 
